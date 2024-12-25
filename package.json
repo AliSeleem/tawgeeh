@@ -1,0 +1,20 @@
+{
+  "name": "tawgeeh",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AliSeleem/tawgeeh#readme",
+  "bugs": {
+    "url": "https://github.com/AliSeleem/tawgeeh/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliSeleem/tawgeeh.git"
+  },
+  "license": "ISC",
+  "author": "Ali Seleem",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
